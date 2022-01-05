@@ -56,5 +56,9 @@ $('.delete').click(function(e){
 <!-- AdminLTE for demo purposes -->
 <script src="{{ asset('dashboard/js/demo.js')}}"></script>
 
+<!-- custom js file -->
+<script src="{{asset('dashboard/js/custom/image-preview.js')}}"></script>
+<script src="{{asset('dashboard/js/custom/order.js')}}"></script>
+
 </body>
 </html>

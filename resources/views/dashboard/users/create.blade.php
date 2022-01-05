@@ -38,7 +38,7 @@
                   </div>
 
                   <div class="form-group">
-                    <img src="{{asset('uploads/users-images/default.png')}}" style="width:100px;" class="img-thumbnail image-preview">
+                    <img class="image" src="{{asset('uploads/users-images/default.png')}}" style="width:100px;" class="img-thumbnail image-preview">
                   </div>
 
                   <div class="form-group">
